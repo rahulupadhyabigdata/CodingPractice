@@ -1,4 +1,4 @@
-Coding Practice Day 1/30
+**Coding Practice Day 1/30**
 
 Hi All,
 Just starting with series of coding questions, feel free to prefer your programming language to solve the same.
