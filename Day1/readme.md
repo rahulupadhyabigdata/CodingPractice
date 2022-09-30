@@ -13,3 +13,7 @@ sumDigits(916) = 7
 
 sumDigits(19)  = 1   
 //Explanation: 1+9=10 => 1+0=1
+
+
+LinkedIn Post Link is as follows:
+https://www.linkedin.com/posts/rahulupadhyabigdata_practice-coding-programming-activity-6981118816818769920-Oizy?utm_source=share&utm_medium=member_desktop
